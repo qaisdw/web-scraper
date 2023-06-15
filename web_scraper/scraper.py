@@ -33,7 +33,3 @@ def get_citations_needed_report(url):
 
     return list_of_paragraphs_that_contain_citations
         
-
-
-print(get_citations_needed_count(URL))
-print(get_citations_needed_report(URL))
