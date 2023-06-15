@@ -2,7 +2,7 @@ import requests
 from  bs4 import BeautifulSoup
 
 
-URL = 'https://en.wikipedia.org/wiki/History_of_Morocco'
+URL = 'https://en.wikipedia.org/wiki/History_of_Mexico'
 
 
 def get_citations_needed_count(url):
